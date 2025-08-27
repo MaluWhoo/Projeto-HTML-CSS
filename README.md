@@ -11,7 +11,7 @@ O objetivo foi praticar **HTML** e **CSS**, construindo um site utilizando conce
 ## 💻 Resultado final
 
 Você pode visualizar o projeto publicado pelo GitHub Pages:  
-🔗 [Acesse aqui](https://seu-usuario.github.io/nome-do-repositorio)
+🔗 [Acesse aqui](https://maluwhoo.github.io/Projeto-HTML-CSS/index.html)
 
 ## 📁 Estrutura do projeto
 
