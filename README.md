@@ -1,4 +1,4 @@
-# 🧑‍💻 Projeto: Portfólio em HTML e CSS
+# 🧑‍💻 Projeto: HTML e CSS
 
 Este projeto foi desenvolvido como parte dos meus estudos em desenvolvimento web, seguindo o tutorial da [Rafaella Ballerini](https://www.youtube.com/c/rafaellaballerini).  
 O objetivo foi praticar **HTML** e **CSS**, criando uma landing page responsiva com foco em design e estrutura de um portfólio pessoal.
